@@ -13,7 +13,7 @@ if (!connect.router) {
 function route(rest) {
   function randomuser(req, res) {
     ru.getUsers(req.query, function (data) {
-      res.send(data);
+      res.send({ results: data });
     });
   }
   rest.get('/', randomuser);

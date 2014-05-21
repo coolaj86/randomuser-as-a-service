@@ -8,10 +8,10 @@ Currently there are some gender-identity issues
 (i.e. Mr. Sally and Mrs. Joseph), but aside from that it's pretty
 much the same thing.
 
-  * <http://randomuser.example.com/api>
-  * <http://randomuser.example.com/api?seed=foobar>
-  * <http://randomuser.example.com/api?gender=male&results=5>
-  * <http://randomuser.example.com/api?lego>
+  * <http://randomuser.coolaj86.com/api>
+  * <http://randomuser.coolaj86.com/api?seed=foobar>
+  * <http://randomuser.coolaj86.com/api?gender=male&results=5>
+  * <http://randomuser.coolaj86.com/api?lego>
 
 Install & Usage
 ===
